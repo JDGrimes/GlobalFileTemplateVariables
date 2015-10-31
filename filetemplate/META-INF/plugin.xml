@@ -1,5 +1,5 @@
 <idea-plugin version="2">
-    <id>org.jetbrains.idea.project.template.variables</id>
+    <id>com.github.gcds.global.template.variables</id>
     <name>Global File Template Variables</name>
     <version>1.0</version>
     <vendor email="aurimas@niekis.lt" url="https://github.com/gcds/GlobalFileTemplateVariables"/>
